@@ -115,7 +115,7 @@ html, body {
 .front-page {
   height:99vh;
   width: 100%;
-  background: image-url('front-page.jpg') no-repeat right center;
+  background: image-url('boxing.jpg') no-repeat right center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -379,20 +379,18 @@ html, body {
     }
   }
   #portfolio-1 {
-    background-image: image-url("portfolio-1.jpg");
+    background-image: image-url("sandra.jpg");
   }
   #portfolio-2 {
-    background-image: image-url("portfolio-2.jpg");
+    background-image: image-url("ZoberRingSM.jpg");
   }
   #portfolio-3 {
-    background-image: image-url("portfolio-3.jpg");
+    background-image: image-url("trxio.jpg");
   }
   #portfolio-4 {
-    background-image: image-url("portfolio-4.jpg");
+    background-image: image-url("machu-picchu.jpg");
   }
-  #portfolio-6 {
-    background-image: image-url("portfolio-6.png");
-  }
+
 }
 
 .contact-me {
